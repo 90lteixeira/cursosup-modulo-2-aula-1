@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Dúvidas
+- pq tem q declarar super() no constructor?
+- não entendi muito o state, pra não gera um novo render(), teria como explica e mostra algum exemplo talvez?
+- como funciona o [...objeto, objeto]?
